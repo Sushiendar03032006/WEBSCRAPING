@@ -30,8 +30,10 @@ To scrape product data from the Amazon shopping website and save it into a CSV f
 ![Screenshot 2025-05-08 140335](https://github.com/user-attachments/assets/39d9392a-8426-431d-805a-41ed2f2d6cd4)
 
 # Output:
-![Screenshot 2025-05-08 140335](https://github.com/user-attachments/assets/7f7ab7e8-21f9-40ea-8f02-05abeb883e32)
-![Screenshot 2025-05-08 140335](https://github.com/user-attachments/assets/b165af77-ae27-478e-ac24-e9d7898bc2dd)
+![Screenshot 2025-05-08 140435](https://github.com/user-attachments/assets/24a11cf1-8521-4fad-b8c3-92acdd75e03f)
+![Screenshot 2025-05-08 140459](https://github.com/user-attachments/assets/fdfd498e-3a54-4b7b-ae00-e317c75272d8)
+
+
 
 # Result:
 Amazon product data is successfully extracted and saved in CSV format at the specified location and Web Scraping Process is successfully executed.
